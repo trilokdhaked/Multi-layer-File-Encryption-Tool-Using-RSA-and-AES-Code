@@ -1,5 +1,8 @@
 # Multi-layer File Encryption Tool Using RSA and AES
 
+[View PDF Report](https://github.com/trilokdhaked/Multi-layer-File-Encryption-Tool-Using-RSA-and-AES-Code/blob/master/Report.pdf)
+
+
 ## Introduction
 
 This is a project that implements a multi-layer file encryption tool using RSA and AES encryption algorithms. The tool is designed to provide robust security for sensitive data by employing a combination of RSA for asymmetric encryption and AES for symmetric encryption.
