@@ -55,6 +55,8 @@ Create a pull request with a clear description of your changes.
 If you have any questions or suggestions, please feel free to contact the project owner:
 
 Name: Trilok Dhaked
+
 Email: trilokdhaked12345678@gmail.com
+
 [GitHub](https://github.com/trilokdhaked/)
 
