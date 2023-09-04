@@ -25,38 +25,36 @@ Before using this tool, make sure you have the following dependencies installed:
 ## Getting Started
 
 1. Clone the repository:
-
-
+```
    git clone https://github.com/trilokdhaked/Multi-layer-File-Encryption-Tool-Using-RSA-and-AES-Code.git
-
+```
 Install the required dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 
 Run the tool:
-
+```
 python main.py
-
+```
 Usage
 Provide detailed instructions on how to use the tool. Include examples of commands and their purposes.
 
-# Example commands go here
-Contributions
-Contributions to this project are welcome. If you want to contribute, please follow these guidelines:
+# Contributions Example commands go here
 
+Contributions to this project are welcome. If you want to contribute, please follow these guidelines:
+```
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and test them.
 Create a pull request with a clear description of your changes.
+```
 
-##License
-This project is licensed under the MIT License.
+# Contact
 
-Contact
 If you have any questions or suggestions, please feel free to contact the project owner:
 
 Name: Trilok Dhaked
 Email: trilokdhaked12345678@gmail.com
-GitHub: trilokdhaked
+[GitHub](https://github.com/trilokdhaked/)
 
