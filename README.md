@@ -20,7 +20,7 @@ This is a project that implements a multi-layer file encryption tool using RSA a
 Before using this tool, make sure you have the following dependencies installed:
 
 - Python 3.x
-- Additional libraries (list them here with installation instructions)
+- Additional libraries 
 
 ## Getting Started
 
